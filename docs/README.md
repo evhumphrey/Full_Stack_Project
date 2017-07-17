@@ -5,7 +5,7 @@
 [Trello link][trello]
 
 [heroku]: http://betterbooks.herokuapp.com/
-[trello]: https://trello.com/b/ALgfuX0Q/freshernote
+[trello]: https://trello.com/b/NyYc8Gxh/betterbooks
 
 ## Minimum Viable Product
 
@@ -35,7 +35,7 @@ sufficient CSS styling:
 [components]: docs/component-hierarchy.md
 [sample-state]: docs/sample-state.md
 [api-endpoints]: docs/api-endpoints.md
-[schema]: docs/schema.md
+[schema]: /schema.md
 
 ## Implementation Timeline
 
