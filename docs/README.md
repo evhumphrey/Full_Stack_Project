@@ -1,4 +1,4 @@
-# FresherNote
+# BetterBooks
 
 [Heroku link][heroku]
 
